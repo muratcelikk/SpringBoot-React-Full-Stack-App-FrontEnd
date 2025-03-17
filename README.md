@@ -10,3 +10,11 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+##  Spring Boot ve React  için Kullanılan teknolojiler;
+* 1-Spring boot(jdk 23) Dependecy: Spring Web 
+* 2-React (v19)
+*****************
+* URL(Back-end);  http://localhost:8080/api/hello
+* URL(Front-end); http://localhost:3000/
+
